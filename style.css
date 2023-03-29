@@ -67,6 +67,7 @@ header a {
 }
 
 .text1{
+    margin: 0 auto;
     font-size: 42px;
     line-height: 49px;
     color: #f7f3ea;
@@ -416,4 +417,5 @@ header a {
     width: 335px;
     font-size: 16px;
     box-shadow: 0 4px 0 rgb(41, 158, 197);
+    /* display: flex; */
 }
